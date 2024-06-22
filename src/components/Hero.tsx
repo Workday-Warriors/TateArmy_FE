@@ -39,7 +39,7 @@ export const Hero = () => {
           </p>
           <div
             data-aos="fade-up"
-            className="flex mb-[66px] w-full gap-y-9 mt-9 lg:mt-0 lg:w-auto flex-col lg:flex-row justify-center gap-x-6"
+            className="flex mb-[36px] w-full gap-y-9 mt-9 lg:mt-0 lg:w-auto flex-col lg:flex-row justify-center gap-x-6"
           >
             <Button className=" w-full lg:w-auto" variant="primary">
               Buy TARMY
